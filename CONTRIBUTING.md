@@ -2,8 +2,6 @@
 
 The handbooks is a collaborative ongoing project. Every CREST members can and is encouraged to contribute to it.
 
-## Basic prerequisites
-
 ## Contributing in practice
 
 There are different ways to contribute to the handbook. 
