@@ -16,7 +16,7 @@ If you want to suggest the creation of some content in the handbook that you fee
 
 ### Option 2: Modifying and adding content using the Github platform (*the easy way*)
 
-### Option 3: Modifying and adding content using Git (*the advanced way*)
+### Option 3: Modifying and adding content using Git (*the professional (advanced) way*)
 
 What you will need:
 - Installing Git
