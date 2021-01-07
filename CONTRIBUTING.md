@@ -1,14 +1,14 @@
 # How to contribute to the handbook
 
-The handbooks is a collaborative ongoing project. Every CREST members can and is encouraged to contribute to it.
+The handbooks is a collaborative ongoing project. Every CREST members can and is encouraged to contribute to it. 
 
 ## Contributing in practice
 
-There are different ways to contribute to the handbook. 
+There are different ways to contribute to the handbook. All involve using your brain.
 
 ### Option 1: Suggesting a modification or a creation of content (*the lazy way*)
 
-An issue in Github is ...
+An issue in Github is ... 
 
 You can create an issue [here](https://github.com/crest-econ/crest-handbook/issues/new/choose).
 
